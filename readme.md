@@ -8,4 +8,4 @@ Test3
 -finish2
 -finish3
 
-![IntelliJ Screenshot](image/screenshot.png)
+![IntelliJ Screenshot](image/Screenshot.png)
