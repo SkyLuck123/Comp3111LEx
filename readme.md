@@ -7,3 +7,5 @@ Test3
 -finish1
 -finish2
 -finish3
+
+![IntelliJ Screenshot](image/screenshot.png)
